@@ -1,0 +1,5 @@
+{
+  "name": "UniSched: PREMIUM ACADEMIC SUITE",
+  "description": "A rule-based academic scheduling system designed for university administration. Features strict constraint enforcement, conflict detection, and role-based views.",
+  "requestFramePermissions": []
+}
